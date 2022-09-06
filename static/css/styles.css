@@ -512,7 +512,7 @@ a:active,a:hover
     font-size: 1vw;
 }
 .content_de .intro-content__list-title {
-    font-size: 4vw;
+    font-size: 2vw;
 }
 .content_de .intro-form__suptitle {
     font-size: 1.5vw;
@@ -692,6 +692,10 @@ a:active,a:hover
 	.content_de .intro-content__title-1 {
 		font-size: 8vw;
 		padding-right: 3.5vw;
+	}
+
+	.content_de .intro-content__list-title {
+		font-size: 4vw;
 	}
 
 	.content_de .intro-content__suptitle {
