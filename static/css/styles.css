@@ -4826,10 +4826,12 @@ header
 
 @media (max-width:567px) {
 	.content_de .fight-content__img img {
-		width: 80%;
+		width: 100%;
 	}
 	.content_de .fight-content__img {
-		transform: translate(20vw, 0px);
+		width: 80%;
+		margin-left: 19.43vw;
+		margin-top: -31.67vw;
 	}
 	
 	.content_de .intro-content__list-title {
@@ -4902,7 +4904,7 @@ header
     }
 
     .content_de .fight-content__btn {
-        font-size: 4vw;
+        font-size: 5.2vw;
     }
 
     .content_de .works-content__list-txt {
