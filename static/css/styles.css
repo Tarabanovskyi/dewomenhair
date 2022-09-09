@@ -495,314 +495,6 @@ a:active,a:hover
 	flex: 1 0 auto;
 }
 
-.content_de .expect__container {
-    padding-right: 1.31vw;
-}
-
-.content_de .btn {
-    font-size: 1.3vw;
-}
-.content_de .intro-content__suptitle {
-    font-size: 2.2vw;
-}
-.content_de .intro-content__list-item {
-    padding-left: 3.7vw;
-}
-.content_de .intro-content__list-txt {
-    font-size: 1vw;
-}
-.content_de .intro-content__list-title {
-    font-size: 2vw;
-}
-.content_de .intro-form__suptitle {
-    font-size: 1.5vw;
-}
-.content_de .intro-form__title {
-    font-size: 2.3vw;
-}
-.content_de .intro-content__foot {
-    margin-top: 2.04vw;
-}
-.content_de .intro-content__foot-title {
-    font-size: 2.52vw;
-}
-.content_de .intro-content__foot-txt {
-    font-size: 2vw;
-}
-.content_de .intro-form__btn {
-    font-size: 1.3vw;
-}
-.content_de .intro-contain__subtitle {
-    font-size: 1.26vw;
-}
-.content_de .proof__subtitle {
-    font-size: 2.7vw;
-}
-.content_de .revolutional-content__txt {
-    width: 47%;
-    font-size: 1.5vw;
-}
-.content_de .revolutional__btn {
-    font-size: 1.3vw;
-}
-.content_de .approved__btn {
-    font-size: 1.3vw;
-}
-.content_de .fight-content__btn {
-    font-size: 1.3vw;
-}
-
-.content_de .recomend__link-order {
-    font-size: 1.3vw;
-}
-.content_de .blueblock__link-item {
-    font-size: 1.3vw;
-}
-.content_de .choice__subtitle {
-    font-size: 2.7vw;
-}
-.content_de .works-content__list-txt {
-    font-size: 1.36vw;
-}
-.content_de .expect-content__subtitle {
-    font-size: 2.7vw;
-}
-.content_de .expect-content__top-txt {
-    font-size: 1.5vw;
-}
-.content_de .effective-content__title, .content_de .expect-content__title, .content_de .works-content__title {
-    font-size: 3.7vw;
-}
-
-.content_de .effective-content__list-txt {
-    font-size: 1.3vw;
-}
-.content_de .use__title {
-    font-size: 4vw;
-}
-.content_de .use-info{
-    font-size: 1.5vw;
-}
-.content_de .fight-content__txt{
-    font-size: 1.65vw;
-}
-.content_de .fight-content__rx{
-    left: 31vw;
-}
-.content_de .fight-content__list-info{
-    padding-left: 1vw;
-    font-size: 1.5vw;
-}
-.content_de .intro-content__title-1{
-    font-size: 6.4vw;
-}
-.content_de .order-head__title {
-    font-size: 32px;
-}
-
-.content_de .order-head__subtitle {
-    font-size: 35.5px;
-}
-.content_de .order-content__head-title {
-    font-size: 25px;
-}
-.content_de .order-content__head-txt {
-    font-size: 14px;
-}
-.content_de .order-item__head {
-    height: 55px;
-}
-.content_de .order-item__btn {
-	
-    font-size: 13px;
-}
-
-.content_de .order-item__normaly {
-   padding-left: 13px;
-}
-
-.content_de .order-item__normaly-txt, .content_de .order-item__normaly-value {
-    font-size: 20px;
-}
-
-.content_de .order-form__title {
-    font-size: 40px;
-}
-
-@media (max-width:910px) { 
-    .content_de .order-item__btn {
-		font-size: 11px;
-	}
-    .content_de .order-item__name {
-		font-size: 15px;
-	}
-	.content_de .order-item__head-left{
-		font-size: 15px;
-	}
-	.content_de .order-item__head-right{
-		font-size: 15px;
-	}
-}
-@media (max-width:770px) { 
-	.content_de .order-head__title,.content_de .order-head__subtitle {
-		font-size: 19px;
-	}
-
-	.content_de .order-content__head-title {
-		font-size: 15px;
-	}
-    
-	.content_de .order-content__head-txt {
-		font-size: 8px;
-	}
-
-	.content_de .order-item__head-left {
-		font-size: 10px;
-	}
-	.content_de .order-item__head-right {
-		font-size: 11px;
-	}
-	.content_de .order-item__btn {
-		font-size: 8px;
-	}
-	.content_de .order-item__name{
-		font-size: 10px;
-	}
-	.content_de .order-item__normaly {
-		padding-left: 5px;
-	}
-
-	.content_de .order-item__normaly-txt, .content_de .order-item__normaly-value {
-		font-size: 10px;
-	}
-}
-
-@media (max-width:740px) { 
-    .content_de .revolutional-content__txt {
-        font-size: 2vw;
-        width: 50%;
-    }
-    
-}
-
-@media (max-width:567px) {
-    .content_de .intro-content__list-item {
-        padding-left: 12.47vw
-    }
-	.content_de .intro-content__title-1 {
-		font-size: 8vw;
-		padding-right: 3.5vw;
-	}
-
-	.content_de .intro-content__list-title {
-		font-size: 4vw;
-	}
-
-	.content_de .intro-content__suptitle {
-		font-size: 3vw;
-		padding-right: 2.8vw;
-	}
-	.content_de .intro-content__title-2 {
-		font-size: 38px;
-	}
-    .content_de .intro-content__list-txt {
-        font-size: 2vw;
-        width: 100%;
-
-    }
-
-    .content_de .intro-content__foot-title {
-        font-size: 4.2vw;
-    }
-
-    .content_de .intro-content__foot-txt {
-        font-size: 3vw;
-    }
-	.content_de .proof__subtitle {
-		font-size: 5vw;
-	}
-	.content_de .choice__subtitle {
-		font-size: 5vw;
-	}
-
-    .content_de .intro-content__list-img {
-        top: -0.53vw;
-    }
-
-    .content_de .intro-content__txt {
-        padding-right: 3.87vw;
-    }
-    .content_de .fight-content__rx{
-        left: -17vw;
-    }
-
-    .content_de .revolutional-content__txt {
-        width: 100%;
-        font-size: 4.27vw;
-    }
-
-    .content_de .revolutional-content__subtitle {
-        font-size: 5vw;
-    }
-
-    .content_de .fight-content__btn {
-        font-size: 4vw;
-    }
-
-    .content_de .works-content__list-txt {
-        font-size: 3.2vw;
-
-    }
-    .content_de .effective-content__title, .content_de .expect-content__title, .content_de .works-content__title {
-        font-size: 4.8vw;
-    }
-
-	.content_de .expect-content__title {
-		font-size: 8vw;
-	}
-	.content_de .expect-content__subtitle {
-		font-size: 6vw;
-	}
-
-    .content_de .expect-content__top-txt {
-        font-size: 4.2vw;
-    }
-
-    .content_de .effective-content__list-txt {
-        font-size: 4.2vw;
-
-    }
-
-    .content_de .use__title {
-        font-size: 6vw;
-    }
-    .content_de .fight-content__txt {
-        font-size: 4.5vw;
-    }
-    .content_de .fight-content__list-info {
-        padding-left: 1vw;
-        font-size: 4vw;
-    }
-	.content_de .order-item__btn {
-		font-size: 17px;
-	}
-}
-
-@media (max-width:374px) {
-	.content_de .order-head__title, .content_de .order-head__subtitle {
-		font-size: 16px;
-	}
-}
-
-@media (max-width:567px) {
-	
-	.content_de .btn {
-		font-size: 4vw;
-
-	}
-
-    
-}
 
 
 .title
@@ -4472,7 +4164,8 @@ header
 	.footer-menu__item
 	{
 		font-size: 2.93vw;
-		margin: 0 2.67vw;
+		margin: 0 2.67vw 10px 2.67vw;
+
 	}
 }
 @media (max-width:480px)
@@ -4884,3 +4577,380 @@ header
 	}
 }
 
+
+.content_de .intro-content__suptitle {
+    font-size: 2.2vw;
+}
+
+.content_de .intro-content__list-item {
+    padding-left: 3.7vw;
+}
+.content_de .intro-content__list-txt {
+    font-size: 0.96vw;
+}
+
+.content_de .intro-form__suptitle {
+    font-size: 1.2vw;
+}
+.content_de .intro-form__title {
+    font-size: 2vw;
+}
+.content_de .intro-content__foot {
+    margin-top: 1.5vw;
+}
+.content_de .intro-content__foot-title {
+	position: relative;
+    font-size: 2.52vw;
+	z-index: 10;
+}
+.content_de .intro-content__foot-txt {
+    font-size: 2vw;
+}
+.content_de .intro-form__btn {
+    font-size: 1.3vw;
+}
+.content_de .intro-contain__subtitle {
+    font-size: 1.26vw;
+}
+.content_de .proof__subtitle {
+    font-size: 2.7vw;
+}
+.content_de .revolutional-content__txt {
+    width: 47%;
+    font-size: 1.5vw;
+}
+.content_de .revolutional__btn {
+    font-size: 1.3vw;
+}
+.content_de .approved__btn {
+    font-size: 1.3vw;
+}
+.content_de .fight-content__btn {
+    font-size: 1.3vw;
+}
+.content_de  .btn{
+	font-size: 1.3vw;
+}
+
+.content_de .recomend__link-order {
+    font-size: 1.3vw;
+}
+.content_de .blueblock__link-item {
+    font-size: 1.3vw;
+}
+.content_de .choice__subtitle {
+    font-size: 2.7vw;
+}
+.content_de .works-content__list-txt {
+    font-size: 1.36vw;
+}
+.content_de .expect-content__subtitle {
+    font-size: 2.7vw;
+}
+.content_de .expect-content__top-txt {
+    font-size: 1.5vw;
+}
+.content_de .effective-content__title, .content_de .expect-content__title, .content_de .works-content__title {
+    font-size: 3.7vw;
+}
+
+.content_de .effective-content__list-txt {
+    font-size: 1.3vw;
+}
+.content_de .use__title {
+    font-size: 4vw;
+}
+.content_de .use-info{
+    font-size: 1.5vw;
+}
+.content_de .fight-content__txt{
+    font-size: 1.65vw;
+}
+.content_de .fight-content__rx{
+    left: 31vw;
+}
+.content_de .fight-content__list-info{
+    padding-left: 1vw;
+    font-size: 1.5vw;
+}
+.content_de .intro-content__title-1{
+    font-size: 6.4vw;
+}
+.content_de .order-head__title {
+    font-size: 32px;
+}
+.content_de .fight-content__img img {
+	width: 46.51vw;
+}
+.content_de .fight-content__subtitle {
+	font-size: 3vw;
+}
+.content_de .order-head__subtitle {
+    font-size: 35.5px;
+}
+.content_de .order-content__head-title {
+    font-size: 25px;
+}
+.content_de .order-content__head-txt {
+    font-size: 14px;
+}
+.content_de .order-item__head {
+    height: 55px;
+}
+.content_de .order-item__btn {
+	
+    font-size: 15px;
+}
+
+.content_de .order-item__normaly {
+   padding-left: 13px;
+}
+
+.content_de .order-item__normaly-txt, .content_de .order-item__normaly-value {
+    font-size: 20px;
+}
+
+.content_de .order-form__title {
+    font-size: 40px;
+}
+.content_de .intro-content__list-title {
+	font-size: 2.14vw;
+}
+@media (max-height:377px) { 
+	.order-total__img {
+		display: none  !important;
+	}
+	.content_de .works-content__txt {
+		font-size: 0.96vw !important;
+	}
+	.content_de .works-content__list-title {
+		font-size: 1.06vw !important;
+	}
+	
+	.content_de .works-content__list-txt {
+		font-size: 0.96vw !important;
+	}
+
+	.content_de .effective-content__txt {
+		font-size: 0.96vw !important;
+	}
+
+	.content_de .effective-content__list-title {
+		font-size: 1.16vw !important;
+
+	}
+
+	.content_de .effective-content__list-txt {
+		font-size: 0.7vw !important;
+	}
+
+	.content_de .fight-content__subtitle {
+		font-size: 1.16vw !important;
+	}
+
+	.content_de .fight-content__txt {
+		font-size: 0.9vw !important;
+	}
+
+	.content_de .fight-content__list-info {
+		font-size: 0.7vw !important;
+	}
+	.content_de .revolutional-content__txt {
+		font-size: 1.2vw !important;
+	}
+}
+@media (max-width:910px) { 
+    .content_de .order-item__btn {
+		font-size: 11px;
+	}
+    .content_de .order-item__name {
+		font-size: 15px;
+	}
+	.content_de .order-item__head-left{
+		font-size: 15px;
+	}
+	.content_de .order-item__head-right{
+		font-size: 15px;
+	}
+}
+
+@media (max-width:770px) { 
+	.content_de .order-form__title {
+		font-size: 30px;
+	}
+	.content_de .order-head__title,.content_de .order-head__subtitle {
+		font-size: 19px;
+	}
+
+	.content_de .order-content__head-title {
+		font-size: 15px;
+	}
+    
+	.content_de .order-content__head-txt {
+		font-size: 8px;
+	}
+
+	
+	.content_de .order-item__head-right {
+		font-size: 13px;
+	}
+	.content_de .order-item__btn {
+		font-size: 8px;
+	}
+	.content_de .order-item__name{
+		font-size: 10px;
+	}
+	.content_de .order-item__head-left {
+		font-size: 10.5px;
+	}
+	.content_de .order-item__normaly {
+		padding-left: 5px;
+	}
+
+	.content_de .order-item__normaly-txt, .content_de .order-item__normaly-value {
+		font-size: 12px;
+	}
+}
+
+@media (max-width:740px) { 
+    .content_de .revolutional-content__txt {
+        font-size: 2vw;
+        width: 50%;
+    }
+    
+}
+
+@media (max-width:567px) {
+	.content_de .fight-content__img img {
+		width: 80%;
+	}
+	.content_de .fight-content__img {
+		transform: translate(20vw, 0px);
+	}
+	
+	.content_de .intro-content__list-title {
+		font-size:4.5vw;
+	}
+    .content_de .intro-content__list-item {
+        padding-left: 12.47vw
+    }
+	.content_de .order-item__normaly-txt, .content_de .order-item__normaly-value {
+		font-size: 14px;
+	}
+	.content_de .intro-content__title-1 {
+		font-size: 8.53vw;
+		padding-right: 8px;
+	}
+	
+	
+	.content_de .order-item__name{
+		font-size: 12px;
+	}
+	.content_de .order-item__head-left {
+		font-size: 12px;
+	}
+
+	.content_de .intro-content__suptitle {
+		font-size: 3vw;
+		padding-right: 2.8vw;
+	}
+	.content_de .intro-content__title-2 {
+		font-size:38px;
+	}
+    .content_de .intro-content__list-txt {
+        font-size: 2.17vw;
+        width: 100%;
+
+    }
+	
+    .content_de .intro-content__foot-title {
+        font-size: 4vw;
+    }
+
+    .content_de .intro-content__foot-txt {
+        font-size: 3vw;
+    }
+	.content_de .proof__subtitle {
+		font-size: 5vw;
+	}
+	.content_de .choice__subtitle {
+		font-size: 5vw;
+	}
+
+    .content_de .intro-content__list-img {
+        top: -0.53vw;
+    }
+
+    .content_de .intro-content__txt {
+        padding-right: 5.87vw;
+    }
+    .content_de .fight-content__rx{
+        left: -17vw;
+    }
+
+    .content_de .revolutional-content__txt {
+        width: 100%;
+        font-size: 4.27vw;
+    }
+
+    .content_de .revolutional-content__subtitle {
+        font-size: 5vw;
+    }
+
+    .content_de .fight-content__btn {
+        font-size: 4vw;
+    }
+
+    .content_de .works-content__list-txt {
+        font-size: 4vw;
+
+    }
+    .content_de .effective-content__title, .content_de .expect-content__title, .content_de .works-content__title {
+        font-size: 6vw;
+    }
+
+	.content_de .expect-content__title {
+		font-size: 8vw;
+	}
+	.content_de .expect-content__subtitle {
+		font-size: 6vw;
+	}
+
+    .content_de .expect-content__top-txt {
+        font-size: 4.2vw;
+    }
+
+    .content_de .effective-content__list-txt {
+        font-size: 4.2vw;
+
+    }
+
+    .content_de .use__title {
+        font-size: 6vw;
+    }
+    .content_de .fight-content__txt {
+        font-size: 4.5vw;
+    }
+    .content_de .fight-content__list-info {
+        padding-left: 1vw;
+        font-size: 4vw;
+    }
+	.content_de .order-item__btn {
+		font-size: 17px;
+	}
+}
+
+@media (max-width:374px) {
+	.content_de .order-head__title, .content_de .order-head__subtitle {
+		font-size: 16px;
+	}
+	.content_de .order-item__name{
+		font-size: 10px;
+	}
+	.content_de .order-form__title {
+		font-size: 30px;
+	}
+	.content_de .order-form__subtitle-1 {
+		font-size: 22px;
+	}
+}
