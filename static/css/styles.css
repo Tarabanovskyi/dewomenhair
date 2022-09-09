@@ -4732,16 +4732,20 @@ header
 	}
 
 	.content_de .effective-content__txt {
-		font-size: 0.96vw !important;
+		font-size: 1.3vw !important;
 	}
 
 	.content_de .effective-content__list-title {
-		font-size: 1.16vw !important;
+		font-size: 1.36vw !important;
 
 	}
 
+	.content_de .fight-content__img img {
+		width: 52.5vw !important;
+	}
+
 	.content_de .effective-content__list-txt {
-		font-size: 0.7vw !important;
+		font-size: 1.2vw !important;
 	}
 
 	.content_de .fight-content__subtitle {
